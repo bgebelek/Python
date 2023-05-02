@@ -1,4 +1,4 @@
-# Edabit - Two Distinct Elements
+#Edabit - Two Distinct Elements
 
 
 def return_unique(numbers):
