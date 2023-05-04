@@ -1,4 +1,4 @@
-##HackerEarth - Divisibility
+#HackerEarth - Divisibility
 
 
 def formed_number_divisible_by_10(numbers):
