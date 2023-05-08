@@ -1,4 +1,4 @@
-# Edabit - Return the Time Saved by Speeding
+#Edabit - Return the Time Saved by Speeding
 
 
 def time_saved(speed_limit, average_speed, average_speed_distance):
